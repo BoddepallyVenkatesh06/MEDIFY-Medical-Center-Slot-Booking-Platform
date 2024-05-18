@@ -10,7 +10,6 @@ MEDIFY is a web application designed for booking appointment slots at medical ce
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Flow of the Application](#Flow-of-the-Application)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -72,7 +71,7 @@ Create a `.env` file in the `server` directory and add the following environment
 render.com
 ```
 
-### Flow of the Application🔧
+## Flow of the Application🔧
 
 ![FlowChart](https://github.com/BoddepallyVenkatesh06/MEDIFY-Medical-Center-Slot-Booking-Platform/blob/main/Flowchart.png)
 
