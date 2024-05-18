@@ -2,7 +2,7 @@
 
 MEDIFY is a web application designed for booking appointment slots at medical centers. Built with modern web technologies, it provides a user-friendly interface for patients to book appointments and for medical centers to manage their schedules efficiently.
 
-## Table of Contents
+## Table of Contents📚
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -14,11 +14,11 @@ MEDIFY is a web application designed for booking appointment slots at medical ce
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Introduction🚀
 
 MEDIFY is a comprehensive platform designed to streamline the process of booking and managing medical appointments. Patients can easily find available slots, book appointments, and receive reminders. Medical centers can manage their schedules, view appointments, and update availability.
 
-## Features
+## Features🛠️
 
 - User-friendly interface for booking medical appointments
 - Real-time availability of appointment slots
@@ -27,20 +27,20 @@ MEDIFY is a comprehensive platform designed to streamline the process of booking
 - Email and SMS reminders for appointments
 - Responsive design for optimal viewing on various devices
 
-## Screenshot
+## Screenshot📷
 
 ![MEDIFY](https://github.com/BoddepallyVenkatesh06/MEDIFY-Medical-Center-Slot-Booking-Platform/blob/main/Screenshot_Medify.png)
 
-## Getting Started
+## Getting Started🎯
 
-### Prerequisites
+### Prerequisites📋
 
 Before you begin, ensure you have the following installed on your system:
 - Node.js
 - npm (Node Package Manager)
 - Render (for backend database)
 
-### Installation
+### Installation⚙️
 
 1. Clone the repository:
 
@@ -75,7 +75,7 @@ render.com
 
 ![FlowChart](https://github.com/BoddepallyVenkatesh06/MEDIFY-Medical-Center-Slot-Booking-Platform/blob/main/Flowchart.png)
 
-### Usage
+### Usage📈
 
 To start the development servers:
 
@@ -106,7 +106,7 @@ npm run build
 
 2. Serve the built frontend with the backend server.
 
-## Contributing
+## Contributing❤️
 
 Contributions are welcome! If you'd like to contribute to MEDIFY, please follow these steps:
 
